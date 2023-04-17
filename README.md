@@ -1,2 +1,2 @@
 # Bootstrap-web-page   
-Designing and Developing responsive website using Bootstrap.
+Designed and Developed responsive website using HTML, CSS, and Bootstrap.
